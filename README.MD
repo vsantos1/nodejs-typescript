@@ -15,7 +15,6 @@ npx prisma studio
 Server [http://localhost:3000/products](http://localhost:3000/products) in your browser to see the result,
 With prisma you can see the database tables.
 
-<img width="300px" src="./preview/query.png" alt="Get route"/>
 
 ## 🛠️ Tecnologies
 
